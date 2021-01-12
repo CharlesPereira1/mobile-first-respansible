@@ -424,7 +424,7 @@ FORM
 
   .menu-section.on .menu-toggle {
     position: absolute;
-    right: 0;
+    right: 25px;
     top: 15px;
   }
 
