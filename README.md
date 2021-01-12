@@ -4,6 +4,10 @@
 
 Unidades de medidas do CSS
 
+```js
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+```
+
 Layout Fixo
 
 `px` - pixel
@@ -22,7 +26,7 @@ Textos fluidos / line height
 `em` - Multiplicado pelo pai e pode se elevar ao quadrado se já existir ref.
 `rem` - Multiplicado pelo root
 
-## Media Queries
+## CSS Media Queries
 
 ```css
 @media (max-width: 320px) {
@@ -31,3 +35,11 @@ Textos fluidos / line height
   }
 }
 ```
+
+## HTML Media Attrib. print
+
+```js
+<link rel="stylesheet" href="print.css" media="print" />
+```
+
+##Image
