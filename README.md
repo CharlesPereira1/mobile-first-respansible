@@ -43,3 +43,11 @@ Textos fluidos / line height
 ```
 
 ##Image
+
+```js
+<picture class="image" alt="Imagem">
+              <source
+                media="(min-width: 768px)"
+                srcset="https://image.com/vi/#$%@#$%@#$%/default.jpg"
+              />
+```
