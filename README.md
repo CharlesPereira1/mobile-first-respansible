@@ -21,3 +21,13 @@ Textos fixos
 Textos fluidos / line height
 `em` - Multiplicado pelo pai e pode se elevar ao quadrado se já existir ref.
 `rem` - Multiplicado pelo root
+
+## Media Queries
+
+```css
+@media (max-width: 320px) {
+  #form h3 {
+    font-size: 2rem;
+  }
+}
+```

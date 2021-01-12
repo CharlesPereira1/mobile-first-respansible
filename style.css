@@ -453,3 +453,9 @@ FORM
     display: block;
   }
 }
+
+@media (max-width: 320px) {
+  #form h3 {
+    font-size: 2rem;
+  }
+}
