@@ -42,7 +42,7 @@ Textos fluidos / line height
 <link rel="stylesheet" href="print.css" media="print" />
 ```
 
-##Image
+## Image
 
 ```js
 <picture class="image" alt="Imagem">
