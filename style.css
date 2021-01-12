@@ -354,3 +354,10 @@ FORM
 #form .button {
   margin: 20px 8px 10px;
 }
+
+/* media queries */
+@media (max-width: 768px) {
+  html {
+    font-size: 50%;
+  }
+}
